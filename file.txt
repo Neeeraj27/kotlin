@@ -1,0 +1,20 @@
+////calculator by kotlin
+
+//import java.util.Scanner
+//fun main(){
+//    println("                 \t\t\t\tWelcome to Calculator App")
+//        val reader = Scanner(System.`in`)
+//        print("Enter your first number- ")
+//        val num1=reader.nextDouble()
+//        print("Enter your second number- ")
+//        val num2=reader.nextDouble()
+//        println("Choose(+,-,/,*")
+//        when(reader.next()[0]) {
+//            '+' -> println(num1 + num2)
+//            '-' -> println(num1 - num2)
+//            '*' -> println(num1 * num2)
+//            '/' -> println(num1 / num2)
+//            else -> println("Something went wrong try again")
+//        }
+//    }
+//
